@@ -1,0 +1,42 @@
+h1 {
+    background-color: hsl(0, 65%, 32%);
+    color: hsl(0, 0%, 100%);
+    border: 5px solid hsl(0, 65%, 32%);
+    text-align: center;
+}
+body {
+    background-color: lch(95.41% 6.09 19.71);
+}
+
+p {
+    text-align: center;
+    font-size: 105%;
+}
+
+div {
+    text-align: center;
+    border-left: 2px solid hsl(0, 65%, 32%);
+    border-right: 2px solid hsl(0, 65%, 32%);
+    border-radius: 10px;
+    width: fit-content;
+    margin:auto;
+    padding: 10px 15px;
+    
+}
+
+.section {
+    text-align: center;
+    background-color: hsl(0, 65%, 32%);
+    color: hsl(0, 0%, 100%);
+    border: 2px solid hsl(0, 65%, 32%);
+    border-radius: 20px;
+    width: fit-content;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name {
+    text-align: center;
+    color: hsl(0, 65%, 32%);
+}
